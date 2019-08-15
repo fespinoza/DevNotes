@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='raw'>
+    <pages>
+        <page name='00 - Index'/>
+        <page name='Arrays'/>
+        <page name='Dates'/>
+        <page name='Decodable'/>
+        <page name='Enums'/>
+        <page name='Formatters'/>
+        <page name='Layer Masking'/>
+        <page name='KeyPath + KVO'/>
+        <page name='Random'/>
+        <page name='UIButton'/>
+        <page name='UICollectionView + FlowLayout'/>
+        <page name='UILabel + Line Height'/>
+        <page name='UISearchController'/>
+    </pages>
+</playground>
